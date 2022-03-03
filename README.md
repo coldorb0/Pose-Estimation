@@ -5,3 +5,6 @@
 
 ## TFlite Download
 https://tfhub.dev/google/lite-model/movenet/singlepose/lightning/3
+
+or
+You can download in the repository
